@@ -1,1 +1,2 @@
-# resume-in-JSON
+# Resume Data in JSON Format
+
